@@ -1,0 +1,5 @@
+# Testing files
+bazel-*
+releases.json
+tools/bazelwrapper
+tools/.*
